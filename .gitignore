@@ -1,0 +1,12 @@
+# Ignore all
+*
+# Unignore all with extensions
+!.gitignore
+!*.cs
+!*.csproj
+!*.md
+!LICENSE
+!*/.vscode/*
+!*/
+
+obj/
